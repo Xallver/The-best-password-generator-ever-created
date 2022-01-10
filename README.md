@@ -20,7 +20,7 @@
 
 Preview of my project:
 
-![websitescreenshot](images/screenshot.png)
+![websitescreenshot](/images/pgscreenshot.png)
 
 *Link to project:
 
