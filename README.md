@@ -20,7 +20,8 @@
 
 Preview of my project:
 
-![JSproject](https://user-images.githubusercontent.com/69219899/146716293-13f1cf2b-2eeb-45cd-ae23-65426aaf96be.gif)
+![websitescreenshot](images/screenshot.png)
 
 *Link to project:
 
+https://xallver.github.io/The-best-password-generator-ever-created/
